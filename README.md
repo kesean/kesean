@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kesean
 - 👀 I’m interested in web development, user experience and solution architecture
-- 🌱 I’m currently learning React.js!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keseanwoodhouse/)
 
 <!---
