@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kesean
-- 👀 I’m interested in Full-Stack Web development, UX, and DevOps
+- 👀 I’m interested in Software Development, UX, and DevOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keseanwoodhouse/)
 
 <!---
