@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kesean
-- 👀 I’m interested in Software Development, UX, and DevOps
+- 👀 I’m interested in Software Development, Integration Engineering, & Developer Advocacy.
+- Currently learning: Go, Docker, System Design 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keseanwoodhouse/)
 
 <!---
