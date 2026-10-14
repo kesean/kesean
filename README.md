@@ -1,21 +1,24 @@
 ### Kesean Woodhouse
 
-Software engineer focused on cloud operations, integrations, and tooling
-that keeps systems reliable for the teams downstream.
+Software Engineer · Solutions Implementation, Cloud & API Integrations
 
-Six years across Microsoft and Stripe. Most recently on Microsoft's cloud
-security team — automated risk-management tooling, production monitoring,
-and the Azure pipelines behind security telemetry. Comfortable across C#,
-Python, PowerShell, and JavaScript/TypeScript, mostly on Azure.
+I build and integrate the systems that connect engineering teams to the
+customers, analysts, and stakeholders downstream of them. Six years across
+Azure data pipelines, production monitoring and alerting, API and webhook
+troubleshooting, and automation that reduces manual work. I work mostly in
+C#, Python, JavaScript/TypeScript, and SQL, on Azure.
 
-Currently doing self-directed project work to stay sharp on modern tooling.
-Open to software engineering, technical program management, operations, and
-support roles. Remote or Seattle-area.
+Most recently at Microsoft as a Software Engineer on the Security side:
+Azure Data Factory pipelines and row-level security for the analysts
+triaging malicious tenants, and Logic Apps + SQL monitoring for ~25
+security analysts. Before that, an Integration Engineer at Stripe and a
+Software Engineer on the Windows Tips app.
 
 **Projects**
-- [Golem](https://github.com/kesean/Golem) — chatbot integration project
-  (Python/Flask, React/TypeScript, deployed on Railway + Vercel with CI and
-  e2e tests). Practice wiring a full app together across services.
+- [Golem](https://github.com/kesean/Golem) ([live demo](https://golem-support.vercel.app/)):
+  an AI troubleshooting assistant that answers technical questions with a
+  likely root cause and debug steps. Python/Flask, React/TypeScript,
+  deployed on Railway and Vercel, built using Claude Code.
 
 **Reach me**
 - [keseanwoodhouse.com](https://keseanwoodhouse.com)
