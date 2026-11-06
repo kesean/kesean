@@ -1,12 +1,12 @@
 ### Kesean Woodhouse
 
-Software Engineer · Solutions Implementation, Cloud & API Integrations
+Software Engineer · Workflow Automation, Monitoring & Integrations
 
-I build and integrate the systems that connect engineering teams to the
-customers, analysts, and stakeholders downstream of them. Six years across
-Azure data pipelines, production monitoring and alerting, API and webhook
-troubleshooting, and automation that reduces manual work. I work mostly in
-C#, Python, JavaScript/TypeScript, and SQL, on Azure.
+I build and run the automations and integrations that internal teams depend
+on, and then keep them reliable. Six years across automation and tooling
+that reduces manual workload, monitoring and alerting that keeps services
+reliable, and translating between technical and non-technical stakeholders.
+I work mostly in C#, Python, JavaScript/TypeScript, and SQL, on Azure.
 
 Most recently at Microsoft as a Software Engineer on the Security side:
 Azure Data Factory pipelines and row-level security for the analysts
